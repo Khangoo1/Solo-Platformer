@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerBehavior : MonoBehaviour
@@ -10,6 +7,7 @@ public class PlayerBehavior : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private float maxSpeed;
     [SerializeField] private float jumpForce;
+    [SerializeField] private LayerMask ground;
 
     private Inputs Inputs;
     private Vector2 direction;
@@ -34,6 +32,7 @@ private void OnJumpPerformed(InputAction.CallbackContext obj)
     if (isOnGround)
     {
         myRigidBody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        isOnGround = false;
     }
 }
 
@@ -66,5 +65,14 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         //myRigidBody.velocity = direction;
         if (myRigidBody.velocity.sqrMagnitude < maxSpeed)
             myRigidBody.AddForce(direction * speed);
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        if (ground == (ground | (1 << other.gameObject.layer)))
+        //if (other.gameObject.CompareTag("Ground") == true)
+        {
+            isOnGround = true;
+        }
     }
 }

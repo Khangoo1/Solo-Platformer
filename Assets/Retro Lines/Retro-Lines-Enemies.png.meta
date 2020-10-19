@@ -1,7 +1,931 @@
 fileFormatVersion: 2
 guid: b1fd1d52cec60b64584983f371f98af1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 9026750580275812264
+    second: Retro-Lines-Enemies_0
+  - first:
+      213: 8647588881503526846
+    second: Retro-Lines-Enemies_1
+  - first:
+      213: 5677642075384163710
+    second: Retro-Lines-Enemies_2
+  - first:
+      213: 4775409317019963501
+    second: Retro-Lines-Enemies_3
+  - first:
+      213: -37768340516506683
+    second: Retro-Lines-Enemies_4
+  - first:
+      213: 7890640094794391517
+    second: Retro-Lines-Enemies_5
+  - first:
+      213: 6343630611466997213
+    second: Retro-Lines-Enemies_6
+  - first:
+      213: 3156980167902423254
+    second: Retro-Lines-Enemies_7
+  - first:
+      213: -1390603616568881854
+    second: Retro-Lines-Enemies_8
+  - first:
+      213: -1518704131826483226
+    second: Retro-Lines-Enemies_9
+  - first:
+      213: 4541247840730077316
+    second: Retro-Lines-Enemies_10
+  - first:
+      213: 7790652089197704701
+    second: Retro-Lines-Enemies_11
+  - first:
+      213: -3750152642234059785
+    second: Retro-Lines-Enemies_12
+  - first:
+      213: 7582321180199231768
+    second: Retro-Lines-Enemies_13
+  - first:
+      213: 2153727932032428493
+    second: Retro-Lines-Enemies_14
+  - first:
+      213: -7423422322413138078
+    second: Retro-Lines-Enemies_15
+  - first:
+      213: 7252268257945147208
+    second: Retro-Lines-Enemies_16
+  - first:
+      213: -3932912248335043894
+    second: Retro-Lines-Enemies_17
+  - first:
+      213: 8755272765109724404
+    second: Retro-Lines-Enemies_18
+  - first:
+      213: 6579201626932366136
+    second: Retro-Lines-Enemies_19
+  - first:
+      213: 8093593408591273321
+    second: Retro-Lines-Enemies_20
+  - first:
+      213: 7141273451014201310
+    second: Retro-Lines-Enemies_21
+  - first:
+      213: -8527162231167788419
+    second: Retro-Lines-Enemies_22
+  - first:
+      213: -5016321382522335995
+    second: Retro-Lines-Enemies_23
+  - first:
+      213: -4300411451531389947
+    second: Retro-Lines-Enemies_24
+  - first:
+      213: 1285790746987553019
+    second: Retro-Lines-Enemies_25
+  - first:
+      213: -800201746046152904
+    second: Retro-Lines-Enemies_26
+  - first:
+      213: 9184897486994586913
+    second: Retro-Lines-Enemies_27
+  - first:
+      213: 8746624693720403517
+    second: Retro-Lines-Enemies_28
+  - first:
+      213: -254998153911430336
+    second: Retro-Lines-Enemies_29
+  - first:
+      213: -4749287999539045663
+    second: Retro-Lines-Enemies_30
+  - first:
+      213: -5358630846173389047
+    second: Retro-Lines-Enemies_31
+  - first:
+      213: -7844765780787534154
+    second: Retro-Lines-Enemies_32
+  - first:
+      213: 389756229830001900
+    second: Retro-Lines-Enemies_33
+  - first:
+      213: -1682329885411537442
+    second: Retro-Lines-Enemies_34
+  - first:
+      213: 7509077344665889891
+    second: Retro-Lines-Enemies_35
+  - first:
+      213: 5752848243127062853
+    second: Retro-Lines-Enemies_36
+  - first:
+      213: -700302654616343888
+    second: Retro-Lines-Enemies_37
+  - first:
+      213: 9081329058139558555
+    second: Retro-Lines-Enemies_38
+  - first:
+      213: -4950287883078202664
+    second: Retro-Lines-Enemies_39
+  - first:
+      213: 2638725924745315540
+    second: Retro-Lines-Enemies_40
+  - first:
+      213: 6708292680300182260
+    second: Retro-Lines-Enemies_41
+  - first:
+      213: -2257611449523185716
+    second: Retro-Lines-Enemies_42
+  - first:
+      213: 1075866654396970991
+    second: Retro-Lines-Enemies_43
+  - first:
+      213: -7519236962931279151
+    second: Retro-Lines-Enemies_44
+  - first:
+      213: 1410456194068765058
+    second: Retro-Lines-Enemies_45
+  - first:
+      213: 1908518465658036053
+    second: Retro-Lines-Enemies_46
+  - first:
+      213: 7286439974368852421
+    second: Retro-Lines-Enemies_47
+  - first:
+      213: 1291380006149054644
+    second: Retro-Lines-Enemies_48
+  - first:
+      213: 2920832540042585362
+    second: Retro-Lines-Enemies_49
+  - first:
+      213: 335980674416718479
+    second: Retro-Lines-Enemies_50
+  - first:
+      213: 8502657307791150336
+    second: Retro-Lines-Enemies_51
+  - first:
+      213: -5604151200675719600
+    second: Retro-Lines-Enemies_52
+  - first:
+      213: -392458731340946101
+    second: Retro-Lines-Enemies_53
+  - first:
+      213: 8904507668403382224
+    second: Retro-Lines-Enemies_54
+  - first:
+      213: -8741629133962403184
+    second: Retro-Lines-Enemies_55
+  - first:
+      213: -4157404723067518881
+    second: Retro-Lines-Enemies_56
+  - first:
+      213: -8150042058704610049
+    second: Retro-Lines-Enemies_57
+  - first:
+      213: 3492652696955830148
+    second: Retro-Lines-Enemies_58
+  - first:
+      213: 3124930922540053563
+    second: Retro-Lines-Enemies_59
+  - first:
+      213: -5200926822831846457
+    second: Retro-Lines-Enemies_60
+  - first:
+      213: -709737717318290011
+    second: Retro-Lines-Enemies_61
+  - first:
+      213: 7541044230245279155
+    second: Retro-Lines-Enemies_62
+  - first:
+      213: 388397871452216034
+    second: Retro-Lines-Enemies_63
+  - first:
+      213: 1342124372309308233
+    second: Retro-Lines-Enemies_64
+  - first:
+      213: -7063798584379884447
+    second: Retro-Lines-Enemies_65
+  - first:
+      213: 412429322214644614
+    second: Retro-Lines-Enemies_66
+  - first:
+      213: 1582799868631790443
+    second: Retro-Lines-Enemies_67
+  - first:
+      213: 2868027233870624760
+    second: Retro-Lines-Enemies_68
+  - first:
+      213: 6340441072918207446
+    second: Retro-Lines-Enemies_69
+  - first:
+      213: -7918207976522442677
+    second: Retro-Lines-Enemies_70
+  - first:
+      213: -2038719139492846289
+    second: Retro-Lines-Enemies_71
+  - first:
+      213: 6529493231287706307
+    second: Retro-Lines-Enemies_72
+  - first:
+      213: 146082929166049308
+    second: Retro-Lines-Enemies_73
+  - first:
+      213: 6446801412029246665
+    second: Retro-Lines-Enemies_74
+  - first:
+      213: 3903813809519186158
+    second: Retro-Lines-Enemies_75
+  - first:
+      213: 2515414472106036881
+    second: Retro-Lines-Enemies_76
+  - first:
+      213: 9053878000824712087
+    second: Retro-Lines-Enemies_77
+  - first:
+      213: 821345326703806941
+    second: Retro-Lines-Enemies_78
+  - first:
+      213: 4463987716596223716
+    second: Retro-Lines-Enemies_79
+  - first:
+      213: -1678315942382044294
+    second: Retro-Lines-Enemies_80
+  - first:
+      213: -6584866419168341860
+    second: Retro-Lines-Enemies_81
+  - first:
+      213: -3873478205299259223
+    second: Retro-Lines-Enemies_82
+  - first:
+      213: -6204698521041133889
+    second: Retro-Lines-Enemies_83
+  - first:
+      213: -5689302483619236189
+    second: Retro-Lines-Enemies_84
+  - first:
+      213: 4439149174207549874
+    second: Retro-Lines-Enemies_85
+  - first:
+      213: 7763457466002828054
+    second: Retro-Lines-Enemies_86
+  - first:
+      213: 7260180493629660272
+    second: Retro-Lines-Enemies_87
+  - first:
+      213: 2869824643641551374
+    second: Retro-Lines-Enemies_88
+  - first:
+      213: -4310831685322526125
+    second: Retro-Lines-Enemies_89
+  - first:
+      213: -6472126789012569850
+    second: Retro-Lines-Enemies_90
+  - first:
+      213: -360801302644696272
+    second: Retro-Lines-Enemies_91
+  - first:
+      213: -5604558106331025784
+    second: Retro-Lines-Enemies_92
+  - first:
+      213: -6302742587450559704
+    second: Retro-Lines-Enemies_93
+  - first:
+      213: 7666959627416427771
+    second: Retro-Lines-Enemies_94
+  - first:
+      213: 3796323188672468815
+    second: Retro-Lines-Enemies_95
+  - first:
+      213: 7016623638898131979
+    second: Retro-Lines-Enemies_96
+  - first:
+      213: -4616684823805165927
+    second: Retro-Lines-Enemies_97
+  - first:
+      213: -1309760488562137590
+    second: Retro-Lines-Enemies_98
+  - first:
+      213: 747678852236632897
+    second: Retro-Lines-Enemies_99
+  - first:
+      213: -1206609418995224826
+    second: Retro-Lines-Enemies_100
+  - first:
+      213: 6326810230178449324
+    second: Retro-Lines-Enemies_101
+  - first:
+      213: 5603918353887740688
+    second: Retro-Lines-Enemies_102
+  - first:
+      213: -7312594655312962015
+    second: Retro-Lines-Enemies_103
+  - first:
+      213: -2236360123774579160
+    second: Retro-Lines-Enemies_104
+  - first:
+      213: 5663797390658617873
+    second: Retro-Lines-Enemies_105
+  - first:
+      213: 1936868270870553997
+    second: Retro-Lines-Enemies_106
+  - first:
+      213: 5987578937035889760
+    second: Retro-Lines-Enemies_107
+  - first:
+      213: -2517153803758781474
+    second: Retro-Lines-Enemies_108
+  - first:
+      213: 4434621555394343597
+    second: Retro-Lines-Enemies_109
+  - first:
+      213: -696338412625147411
+    second: Retro-Lines-Enemies_110
+  - first:
+      213: -8677333257213030006
+    second: Retro-Lines-Enemies_111
+  - first:
+      213: -4106793899552079996
+    second: Retro-Lines-Enemies_112
+  - first:
+      213: -7648388623765614780
+    second: Retro-Lines-Enemies_113
+  - first:
+      213: 8461225426395120960
+    second: Retro-Lines-Enemies_114
+  - first:
+      213: 9048235713748848361
+    second: Retro-Lines-Enemies_115
+  - first:
+      213: 4625201994286076337
+    second: Retro-Lines-Enemies_116
+  - first:
+      213: -1397503486534638944
+    second: Retro-Lines-Enemies_117
+  - first:
+      213: -6792441018570301108
+    second: Retro-Lines-Enemies_118
+  - first:
+      213: 6267013750658575379
+    second: Retro-Lines-Enemies_119
+  - first:
+      213: 5388560040042214704
+    second: Retro-Lines-Enemies_120
+  - first:
+      213: 5821788102702773943
+    second: Retro-Lines-Enemies_121
+  - first:
+      213: 4677939808267290295
+    second: Retro-Lines-Enemies_122
+  - first:
+      213: -6734527941958840536
+    second: Retro-Lines-Enemies_123
+  - first:
+      213: 354107752598816298
+    second: Retro-Lines-Enemies_124
+  - first:
+      213: 1578379785962937582
+    second: Retro-Lines-Enemies_125
+  - first:
+      213: 220111703654217466
+    second: Retro-Lines-Enemies_126
+  - first:
+      213: -4555761226387385881
+    second: Retro-Lines-Enemies_127
+  - first:
+      213: -630720348159281347
+    second: Retro-Lines-Enemies_128
+  - first:
+      213: 7531438086255704450
+    second: Retro-Lines-Enemies_129
+  - first:
+      213: 782551841910853778
+    second: Retro-Lines-Enemies_130
+  - first:
+      213: -5616811257963179463
+    second: Retro-Lines-Enemies_131
+  - first:
+      213: 6961585706002013488
+    second: Retro-Lines-Enemies_132
+  - first:
+      213: -4486091949225882787
+    second: Retro-Lines-Enemies_133
+  - first:
+      213: -516580517562461741
+    second: Retro-Lines-Enemies_134
+  - first:
+      213: -3262629616972619417
+    second: Retro-Lines-Enemies_135
+  - first:
+      213: -5065336821040185990
+    second: Retro-Lines-Enemies_136
+  - first:
+      213: 1974702987486685988
+    second: Retro-Lines-Enemies_137
+  - first:
+      213: 7040930420481373684
+    second: Retro-Lines-Enemies_138
+  - first:
+      213: 7763129782987556567
+    second: Retro-Lines-Enemies_139
+  - first:
+      213: 1350299131736859589
+    second: Retro-Lines-Enemies_140
+  - first:
+      213: 2536521690454863305
+    second: Retro-Lines-Enemies_141
+  - first:
+      213: -4560829754585318102
+    second: Retro-Lines-Enemies_142
+  - first:
+      213: -9167150184122088127
+    second: Retro-Lines-Enemies_143
+  - first:
+      213: -2909820232243184396
+    second: Retro-Lines-Enemies_144
+  - first:
+      213: -8949648305523781530
+    second: Retro-Lines-Enemies_145
+  - first:
+      213: 6337315902124309045
+    second: Retro-Lines-Enemies_146
+  - first:
+      213: 7761101502821745640
+    second: Retro-Lines-Enemies_147
+  - first:
+      213: 3182589767493068263
+    second: Retro-Lines-Enemies_148
+  - first:
+      213: 1102107718949711936
+    second: Retro-Lines-Enemies_149
+  - first:
+      213: -8157383780187440545
+    second: Retro-Lines-Enemies_150
+  - first:
+      213: 3731811914215240111
+    second: Retro-Lines-Enemies_151
+  - first:
+      213: -4524892833457553213
+    second: Retro-Lines-Enemies_152
+  - first:
+      213: 2696186262925889810
+    second: Retro-Lines-Enemies_153
+  - first:
+      213: 3113308005242186040
+    second: Retro-Lines-Enemies_0
+  - first:
+      213: 6348046407296493004
+    second: Retro-Lines-Enemies_1
+  - first:
+      213: 6463545557417082382
+    second: Retro-Lines-Enemies_2
+  - first:
+      213: -715840052046893267
+    second: Retro-Lines-Enemies_3
+  - first:
+      213: -37243227021319342
+    second: Retro-Lines-Enemies_4
+  - first:
+      213: -8048546851359681441
+    second: Retro-Lines-Enemies_5
+  - first:
+      213: 4964930462851486435
+    second: Retro-Lines-Enemies_6
+  - first:
+      213: -309635260341149773
+    second: Retro-Lines-Enemies_7
+  - first:
+      213: -8805323050191105036
+    second: Retro-Lines-Enemies_8
+  - first:
+      213: -3525735190973304879
+    second: Retro-Lines-Enemies_9
+  - first:
+      213: -4419290105021553981
+    second: Retro-Lines-Enemies_10
+  - first:
+      213: -8559930281367944453
+    second: Retro-Lines-Enemies_11
+  - first:
+      213: -4917937078698858000
+    second: Retro-Lines-Enemies_12
+  - first:
+      213: 2261410486584642436
+    second: Retro-Lines-Enemies_13
+  - first:
+      213: -551516430833087185
+    second: Retro-Lines-Enemies_14
+  - first:
+      213: 5317035169582985403
+    second: Retro-Lines-Enemies_15
+  - first:
+      213: 4679381153453097726
+    second: Retro-Lines-Enemies_16
+  - first:
+      213: 6277079515739678380
+    second: Retro-Lines-Enemies_17
+  - first:
+      213: -6743679048875386018
+    second: Retro-Lines-Enemies_18
+  - first:
+      213: -1633177971156981899
+    second: Retro-Lines-Enemies_19
+  - first:
+      213: 4052410267133048349
+    second: Retro-Lines-Enemies_20
+  - first:
+      213: 2245752939842333957
+    second: Retro-Lines-Enemies_21
+  - first:
+      213: -1465871370564469523
+    second: Retro-Lines-Enemies_22
+  - first:
+      213: 2897167998516598002
+    second: Retro-Lines-Enemies_23
+  - first:
+      213: 28754367937401441
+    second: Retro-Lines-Enemies_24
+  - first:
+      213: -3188490693339510670
+    second: Retro-Lines-Enemies_25
+  - first:
+      213: -6076122300568183760
+    second: Retro-Lines-Enemies_26
+  - first:
+      213: -6226160609314026988
+    second: Retro-Lines-Enemies_27
+  - first:
+      213: 441591126503391188
+    second: Retro-Lines-Enemies_28
+  - first:
+      213: 2545231533225567848
+    second: Retro-Lines-Enemies_29
+  - first:
+      213: 7842886040328724604
+    second: Retro-Lines-Enemies_30
+  - first:
+      213: 7833880762178078068
+    second: Retro-Lines-Enemies_31
+  - first:
+      213: -6428450567517433289
+    second: Retro-Lines-Enemies_32
+  - first:
+      213: -1378455786303164100
+    second: Retro-Lines-Enemies_33
+  - first:
+      213: 4819311665126761785
+    second: Retro-Lines-Enemies_34
+  - first:
+      213: -6091519814204314053
+    second: Retro-Lines-Enemies_35
+  - first:
+      213: 647079175743648011
+    second: Retro-Lines-Enemies_36
+  - first:
+      213: 3089139855504312895
+    second: Retro-Lines-Enemies_37
+  - first:
+      213: -2110595963792728027
+    second: Retro-Lines-Enemies_38
+  - first:
+      213: -4852620426960126930
+    second: Retro-Lines-Enemies_39
+  - first:
+      213: 4393262058382350053
+    second: Retro-Lines-Enemies_40
+  - first:
+      213: 2386168026363355000
+    second: Retro-Lines-Enemies_41
+  - first:
+      213: 6387701100155152202
+    second: Retro-Lines-Enemies_42
+  - first:
+      213: -5267850961905766934
+    second: Retro-Lines-Enemies_43
+  - first:
+      213: -4337133865252809600
+    second: Retro-Lines-Enemies_44
+  - first:
+      213: -6625768122206933460
+    second: Retro-Lines-Enemies_45
+  - first:
+      213: -3434736474818618170
+    second: Retro-Lines-Enemies_46
+  - first:
+      213: 7237217593006554400
+    second: Retro-Lines-Enemies_47
+  - first:
+      213: 8585969269322779636
+    second: Retro-Lines-Enemies_48
+  - first:
+      213: 3464271040290221106
+    second: Retro-Lines-Enemies_49
+  - first:
+      213: -7787075571142281939
+    second: Retro-Lines-Enemies_50
+  - first:
+      213: 9221393955028344668
+    second: Retro-Lines-Enemies_51
+  - first:
+      213: -7487953378811905658
+    second: Retro-Lines-Enemies_52
+  - first:
+      213: 6625828989803721035
+    second: Retro-Lines-Enemies_53
+  - first:
+      213: -8493813629207300044
+    second: Retro-Lines-Enemies_54
+  - first:
+      213: -4899045993816850269
+    second: Retro-Lines-Enemies_55
+  - first:
+      213: 665311287678593285
+    second: Retro-Lines-Enemies_56
+  - first:
+      213: 1466836630773503312
+    second: Retro-Lines-Enemies_57
+  - first:
+      213: 3140600561698438020
+    second: Retro-Lines-Enemies_58
+  - first:
+      213: -3703309914179965192
+    second: Retro-Lines-Enemies_59
+  - first:
+      213: 6143299466453176611
+    second: Retro-Lines-Enemies_60
+  - first:
+      213: 1098570465159232403
+    second: Retro-Lines-Enemies_61
+  - first:
+      213: 7722141853106742885
+    second: Retro-Lines-Enemies_62
+  - first:
+      213: 7808610629351893999
+    second: Retro-Lines-Enemies_63
+  - first:
+      213: -5311593195528005786
+    second: Retro-Lines-Enemies_64
+  - first:
+      213: 3909410148465915419
+    second: Retro-Lines-Enemies_65
+  - first:
+      213: 317077312682320432
+    second: Retro-Lines-Enemies_66
+  - first:
+      213: -3118499628935148754
+    second: Retro-Lines-Enemies_67
+  - first:
+      213: 7310161911848296275
+    second: Retro-Lines-Enemies_68
+  - first:
+      213: 5630357483101559576
+    second: Retro-Lines-Enemies_69
+  - first:
+      213: -7823832394875574643
+    second: Retro-Lines-Enemies_70
+  - first:
+      213: 4074262548917647419
+    second: Retro-Lines-Enemies_71
+  - first:
+      213: -3702016905944397168
+    second: Retro-Lines-Enemies_72
+  - first:
+      213: -1204568863245261141
+    second: Retro-Lines-Enemies_73
+  - first:
+      213: 3259609474980590882
+    second: Retro-Lines-Enemies_74
+  - first:
+      213: 3764305787816245050
+    second: Retro-Lines-Enemies_75
+  - first:
+      213: -1230949945976639302
+    second: Retro-Lines-Enemies_76
+  - first:
+      213: -5939252223724224631
+    second: Retro-Lines-Enemies_77
+  - first:
+      213: 4122708524017572723
+    second: Retro-Lines-Enemies_78
+  - first:
+      213: -7797845748066518834
+    second: Retro-Lines-Enemies_79
+  - first:
+      213: 8764090271202589339
+    second: Retro-Lines-Enemies_80
+  - first:
+      213: -3770077916572320834
+    second: Retro-Lines-Enemies_81
+  - first:
+      213: 7038715025510757540
+    second: Retro-Lines-Enemies_82
+  - first:
+      213: -8073330640956953224
+    second: Retro-Lines-Enemies_83
+  - first:
+      213: 5295368336675578366
+    second: Retro-Lines-Enemies_84
+  - first:
+      213: -4711242809027922546
+    second: Retro-Lines-Enemies_85
+  - first:
+      213: 5824239232049469843
+    second: Retro-Lines-Enemies_86
+  - first:
+      213: 2772054456909683076
+    second: Retro-Lines-Enemies_87
+  - first:
+      213: -8566978852252661871
+    second: Retro-Lines-Enemies_88
+  - first:
+      213: 1226523099697169031
+    second: Retro-Lines-Enemies_89
+  - first:
+      213: -9141393215249872052
+    second: Retro-Lines-Enemies_90
+  - first:
+      213: -8520711092343710164
+    second: Retro-Lines-Enemies_91
+  - first:
+      213: -8244290134248925226
+    second: Retro-Lines-Enemies_92
+  - first:
+      213: 3336038067074368476
+    second: Retro-Lines-Enemies_93
+  - first:
+      213: -1444243008125624756
+    second: Retro-Lines-Enemies_94
+  - first:
+      213: 8233216776243254776
+    second: Retro-Lines-Enemies_95
+  - first:
+      213: 2081065448539403464
+    second: Retro-Lines-Enemies_96
+  - first:
+      213: -326274990218101975
+    second: Retro-Lines-Enemies_97
+  - first:
+      213: -4572943051135610963
+    second: Retro-Lines-Enemies_98
+  - first:
+      213: 7990535412920473012
+    second: Retro-Lines-Enemies_99
+  - first:
+      213: 495802797769782892
+    second: Retro-Lines-Enemies_100
+  - first:
+      213: -8612326532470908913
+    second: Retro-Lines-Enemies_101
+  - first:
+      213: -1814290777872529944
+    second: Retro-Lines-Enemies_102
+  - first:
+      213: 8816440917720886543
+    second: Retro-Lines-Enemies_103
+  - first:
+      213: 6277407742032461903
+    second: Retro-Lines-Enemies_104
+  - first:
+      213: -781614832391342011
+    second: Retro-Lines-Enemies_105
+  - first:
+      213: 5581131192895273632
+    second: Retro-Lines-Enemies_106
+  - first:
+      213: 908126072907593578
+    second: Retro-Lines-Enemies_107
+  - first:
+      213: 3328470156125651274
+    second: Retro-Lines-Enemies_108
+  - first:
+      213: -835740707017154292
+    second: Retro-Lines-Enemies_109
+  - first:
+      213: -2335234580093186909
+    second: Retro-Lines-Enemies_110
+  - first:
+      213: 4179952239580557440
+    second: Retro-Lines-Enemies_111
+  - first:
+      213: -3298697083156781697
+    second: Retro-Lines-Enemies_112
+  - first:
+      213: 2011819788871084962
+    second: Retro-Lines-Enemies_113
+  - first:
+      213: -3583218355594806511
+    second: Retro-Lines-Enemies_114
+  - first:
+      213: 8239771118006437386
+    second: Retro-Lines-Enemies_115
+  - first:
+      213: -4990348329285253024
+    second: Retro-Lines-Enemies_116
+  - first:
+      213: -1544397336810779456
+    second: Retro-Lines-Enemies_117
+  - first:
+      213: -9074457467120949471
+    second: Retro-Lines-Enemies_118
+  - first:
+      213: -1898933145151386485
+    second: Retro-Lines-Enemies_119
+  - first:
+      213: -1484796556484761191
+    second: Retro-Lines-Enemies_120
+  - first:
+      213: 5656642396500683635
+    second: Retro-Lines-Enemies_121
+  - first:
+      213: 2676206615560692602
+    second: Retro-Lines-Enemies_122
+  - first:
+      213: -1108408061061358927
+    second: Retro-Lines-Enemies_123
+  - first:
+      213: 4371508821413058161
+    second: Retro-Lines-Enemies_124
+  - first:
+      213: -7314688646616693056
+    second: Retro-Lines-Enemies_125
+  - first:
+      213: 6111732316681804414
+    second: Retro-Lines-Enemies_126
+  - first:
+      213: 5261361357042505168
+    second: Retro-Lines-Enemies_127
+  - first:
+      213: -9215528822144215271
+    second: Retro-Lines-Enemies_128
+  - first:
+      213: 2872689877246362145
+    second: Retro-Lines-Enemies_129
+  - first:
+      213: -1473407889823959279
+    second: Retro-Lines-Enemies_130
+  - first:
+      213: -5239851951697887522
+    second: Retro-Lines-Enemies_131
+  - first:
+      213: 5143007046944151239
+    second: Retro-Lines-Enemies_132
+  - first:
+      213: -7804824163988068258
+    second: Retro-Lines-Enemies_133
+  - first:
+      213: -9018739279758284680
+    second: Retro-Lines-Enemies_134
+  - first:
+      213: -6271037644742619319
+    second: Retro-Lines-Enemies_135
+  - first:
+      213: 2915255047127282058
+    second: Retro-Lines-Enemies_136
+  - first:
+      213: -7548942099378846564
+    second: Retro-Lines-Enemies_137
+  - first:
+      213: -6584110406640507091
+    second: Retro-Lines-Enemies_138
+  - first:
+      213: -6819297933757413535
+    second: Retro-Lines-Enemies_139
+  - first:
+      213: 2964162082584625835
+    second: Retro-Lines-Enemies_140
+  - first:
+      213: -7528879333227097406
+    second: Retro-Lines-Enemies_141
+  - first:
+      213: 2756022978618366328
+    second: Retro-Lines-Enemies_142
+  - first:
+      213: -4067983318044355535
+    second: Retro-Lines-Enemies_143
+  - first:
+      213: 3255763527397929664
+    second: Retro-Lines-Enemies_144
+  - first:
+      213: 9166444750699606668
+    second: Retro-Lines-Enemies_145
+  - first:
+      213: -5903403541539744832
+    second: Retro-Lines-Enemies_146
+  - first:
+      213: 3316347270519219295
+    second: Retro-Lines-Enemies_147
+  - first:
+      213: -493925836197422310
+    second: Retro-Lines-Enemies_148
+  - first:
+      213: 3884565741047197646
+    second: Retro-Lines-Enemies_149
+  - first:
+      213: 3581753149191797947
+    second: Retro-Lines-Enemies_150
+  - first:
+      213: -6965255420057903187
+    second: Retro-Lines-Enemies_151
+  - first:
+      213: 7538013263164951842
+    second: Retro-Lines-Enemies_152
+  - first:
+      213: -3264134422948171121
+    second: Retro-Lines-Enemies_153
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +956,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +965,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +990,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -78,7 +1002,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -87,7 +1011,3241 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83927d0c221b43b20800000000000000
+      internalID: 3113308005242186040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52a94f29ac81850800000000000000
+      internalID: 6348046407296493004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e366b607023b950800000000000000
+      internalID: 6463545557417082382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6fbde343d016f0800000000000000
+      internalID: -715840052046893267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ea1b7b7fab7ff0800000000000000
+      internalID: -37243227021319342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f541e9e1841dd4090800000000000000
+      internalID: -8048546851359681441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e257cc53f9f6e440800000000000000
+      internalID: 4964930462851486435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1e690f54f3bbf0800000000000000
+      internalID: -309635260341149773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3dcc4a6553dc580800000000000000
+      internalID: -8805323050191105036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df21f12682121fc0800000000000000
+      internalID: -3525735190973304879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2aaca50178ba2c0800000000000000
+      internalID: -4419290105021553981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf244f4f2c4053980800000000000000
+      internalID: -8559930281367944453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ae64884affbbb0800000000000000
+      internalID: -4917937078698858000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b88382bd4226f10800000000000000
+      internalID: 2261410486584642436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d076c6abe9858f0800000000000000
+      internalID: -551516430833087185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b04dd057e9c940800000000000000
+      internalID: 5317035169582985403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ca3cdd5080f040800000000000000
+      internalID: 4679381153453097726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66b8aef8aac1750800000000000000
+      internalID: 6277079515739678380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd98472a3a962a0800000000000000
+      internalID: -6743679048875386018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e136c949c559e0800000000000000
+      internalID: -1633177971156981899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167c98daad0d3830800000000000000
+      internalID: 4052410267133048349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d679876648a2f10800000000000000
+      internalID: 2245752939842333957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf61741cd28abe0800000000000000
+      internalID: -1465871370564469523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4163ed1fec43820800000000000000
+      internalID: 2897167998516598002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16256aef1f7266000800000000000000
+      internalID: 28754367937401441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780cd59b9430c3d0800000000000000
+      internalID: -3188490693339510670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cddc6d5f64daba0800000000000000
+      internalID: -6076122300568183760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ace47d9eb3899a0800000000000000
+      internalID: -6226160609314026988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff2373ac8d02600800000000000000
+      internalID: 441591126503391188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666801289a725320800000000000000
+      internalID: 2545231533225567848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e9afdc4787dc60800000000000000
+      internalID: 7842886040328724604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475046a2c0987bc60800000000000000
+      internalID: 7833880762178078068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73217faa44e89c6a0800000000000000
+      internalID: -6428450567517433289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3171d604cdbedce0800000000000000
+      internalID: -1378455786303164100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e6c5fc62a1e240800000000000000
+      internalID: 4819311665126761785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2914d003967ba0800000000000000
+      internalID: -6091519814204314053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b0cbf413eaf800800000000000000
+      internalID: 647079175743648011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a06d4e454deda20800000000000000
+      internalID: 3089139855504312895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e2c14728a5b2e0800000000000000
+      internalID: -2110595963792728027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cbc359e6708acb0800000000000000
+      internalID: -4852620426960126930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6d41bc09008fc30800000000000000
+      internalID: 4393262058382350053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f58c17d2f5d1120800000000000000
+      internalID: 2386168026363355000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ae1e9e4ca5a850800000000000000
+      internalID: 6387701100155152202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed28edd575d4e6b0800000000000000
+      internalID: -5267850961905766934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0841a4a8ab76fc3c0800000000000000
+      internalID: -4337133865252809600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eafb76ffa8c04a0800000000000000
+      internalID: -6625768122206933460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccdb59cf5d5550d0800000000000000
+      internalID: -3434736474818618170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfc517e03cf6460800000000000000
+      internalID: 7237217593006554400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb876e5f8d772770800000000000000
+      internalID: 8585969269322779636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ceb2a1820931030800000000000000
+      internalID: 3464271040290221106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2531f69600cee390800000000000000
+      internalID: -7787075571142281939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f166fe1f8f8ff70800000000000000
+      internalID: 9221393955028344668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689fa392312751890800000000000000
+      internalID: -7487953378811905658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b417cbf6c5ca3fb50800000000000000
+      internalID: 6625828989803721035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383ab2a189ef1a80800000000000000
+      internalID: -8493813629207300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00f38ff97130cb0800000000000000
+      internalID: -4899045993816850269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e3275719ab3900800000000000000
+      internalID: 665311287678593285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05519c0e4204b5410800000000000000
+      internalID: 1466836630773503312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b7d6d3297a59b20800000000000000
+      internalID: 3140600561698438020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feee1801433b9cc0800000000000000
+      internalID: -3703309914179965192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d9cee052614550800000000000000
+      internalID: 6143299466453176611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b3d808408ee3f00800000000000000
+      internalID: 1098570465159232403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566aa9b0a1f8a2b60800000000000000
+      internalID: 7722141853106742885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febebdfdef1cd5c60800000000000000
+      internalID: 7808610629351893999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667db25712e6946b0800000000000000
+      internalID: -5311593195528005786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163e9c21d3014630800000000000000
+      internalID: 3909410148465915419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e3ccc22c766400800000000000000
+      internalID: 317077312682320432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b02292c1dd8b4d0800000000000000
+      internalID: -3118499628935148754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fde462789e27560800000000000000
+      internalID: 7310161911848296275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b1bbacc4c032e40800000000000000
+      internalID: 5630357483101559576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866f39a3e92c6390800000000000000
+      internalID: -7823832394875574643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f9eda330ba8830800000000000000
+      internalID: 4074262548917647419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a81b8fc3bcf9cc0800000000000000
+      internalID: -3702016905944397168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba625ce3003884fe0800000000000000
+      internalID: -1204568863245261141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22537be1c857c3d20800000000000000
+      internalID: 3259609474980590882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37fbbc7b208d3430800000000000000
+      internalID: 3764305787816245050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b6c5cb89caeee0800000000000000
+      internalID: -1230949945976639302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff77de199839da0800000000000000
+      internalID: -5939252223724224631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bda8e3f8dc63930800000000000000
+      internalID: 4122708524017572723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8743d5b9c78c390800000000000000
+      internalID: -7797845748066518834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9abc72eaad40a970800000000000000
+      internalID: 8764090271202589339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb792f0c1efdabc0800000000000000
+      internalID: -3770077916572320834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f5c2e50a8ea160800000000000000
+      internalID: 7038715025510757540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87deb7f6e84c5ff80800000000000000
+      internalID: -8073330640956953224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12666327dec7940800000000000000
+      internalID: 5295368336675578366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85f64d50ad4e9eb0800000000000000
+      internalID: -4711242809027922546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d33139bad3d050800000000000000
+      internalID: 5824239232049469843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d32277d0587620800000000000000
+      internalID: 2772054456909683076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974239af1afb1980800000000000000
+      internalID: -8566978852252661871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c242c24c750110800000000000000
+      internalID: 1226523099697169031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8ddccd4f332180800000000000000
+      internalID: -9141393215249872052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5f1bf76a50c980800000000000000
+      internalID: -8520711092343710164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d5d29dc5669d80800000000000000
+      internalID: -8244290134248925226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3062962fcfb4e20800000000000000
+      internalID: 3336038067074368476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9453d2a405fbe0800000000000000
+      internalID: -1444243008125624756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f514ca5903424270800000000000000
+      internalID: 8233216776243254776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b78edffd61ec10800000000000000
+      internalID: 2081065448539403464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb4f400a6d87bf0800000000000000
+      internalID: -326274990218101975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf88f20684a980c0800000000000000
+      internalID: -4572943051135610963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5dd445f9514ee60800000000000000
+      internalID: 7990535412920473012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6676b7840271e600800000000000000
+      internalID: 495802797769782892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08566616aeda7880800000000000000
+      internalID: -8612326532470908913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e504a9662852d6e0800000000000000
+      internalID: -1814290777872529944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de8fb9d4a4a5a70800000000000000
+      internalID: 8816440917720886543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c12e0515dd1750800000000000000
+      internalID: 6277407742032461903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548332c73752725f0800000000000000
+      internalID: -781614832391342011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaff55ff39247d40800000000000000
+      internalID: 5581131192895273632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677de21adf4a9c00800000000000000
+      internalID: 908126072907593578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41cb55d8f9113e20800000000000000
+      internalID: 3328470156125651274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a8e1414ad664f0800000000000000
+      internalID: -835740707017154292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4652a584979fd0800000000000000
+      internalID: -2335234580093186909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0803c426a6c220a30800000000000000
+      internalID: 4179952239580557440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75a2d8ea7ca832d0800000000000000
+      internalID: -3298697083156781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab23cb507b6beb10800000000000000
+      internalID: 2011819788871084962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bbc1ae3e9d54ec0800000000000000
+      internalID: -3583218355594806511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060c47fc2c895270800000000000000
+      internalID: 8239771118006437386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680d7f62a8bebab0800000000000000
+      internalID: -4990348329285253024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc85530ec2319ae0800000000000000
+      internalID: -1544397336810779456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1276dde130d011280800000000000000
+      internalID: -9074457467120949471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c490f8d52a5a5e0800000000000000
+      internalID: -1898933145151386485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a00f0661f46be0800000000000000
+      internalID: -1484796556484761191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b66d81a4e608e40800000000000000
+      internalID: 5656642396500683635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ab0adcbbc32520800000000000000
+      internalID: 2676206615560692602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1246bdb42e90f0800000000000000
+      internalID: -1108408061061358927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176dfc0ac18baac30800000000000000
+      internalID: 4371508821413058161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c644d74e610d7a90800000000000000
+      internalID: -7314688646616693056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1812292c31d450800000000000000
+      internalID: 6111732316681804414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d55c71474c140940800000000000000
+      internalID: 5261361357042505168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91758babc5ddb1080800000000000000
+      internalID: -9215528822144215271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12241232938ddd720800000000000000
+      internalID: 2872689877246362145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f8c5a4576d8be0800000000000000
+      internalID: -1473407889823959279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef86f696e4847b0800000000000000
+      internalID: -5239851951697887522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6df6e09a1af5740800000000000000
+      internalID: 5143007046944151239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582b1b46c1bfa390800000000000000
+      internalID: -7804824163988068258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878252c886007d280800000000000000
+      internalID: -9018739279758284680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f830ccc7cc8f8a0800000000000000
+      internalID: -6271037644742619319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81bfa90501157820800000000000000
+      internalID: 2915255047127282058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9448881825cc3790800000000000000
+      internalID: -7548942099378846564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276d32287a80a4a0800000000000000
+      internalID: -6584110406640507091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16785d0d8acfc51a0800000000000000
+      internalID: -6819297933757413535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2832595b1d22920800000000000000
+      internalID: 2964162082584625835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2183ad22c048790800000000000000
+      internalID: -7528879333227097406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799c590c4c5f3620800000000000000
+      internalID: 2756022978618366328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13450cfa9be9b87c0800000000000000
+      internalID: -4067983318044355535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f93badabce2d20800000000000000
+      internalID: 3255763527397929664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b1b25fe0c53f70800000000000000
+      internalID: 9166444750699606668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c39dbca1c5e21ea0800000000000000
+      internalID: -5903403541539744832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5462239548060e20800000000000000
+      internalID: 3316347270519219295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9014a1193529f0800000000000000
+      internalID: -493925836197422310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf25cdc5ffb8e530800000000000000
+      internalID: 3884565741047197646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb6b22381f4b130800000000000000
+      internalID: 3581753149191797947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf95955911765f90800000000000000
+      internalID: -6965255420057903187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d412fef176c9860800000000000000
+      internalID: 7538013263164951842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82bc05590773b2d0800000000000000
+      internalID: -3264134422948171121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
