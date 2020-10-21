@@ -14,6 +14,8 @@ public class PlayerBehavior : MonoBehaviour
     private Rigidbody2D myRigidBody;
 
     private bool isOnGround = true;
+    private Animator myAnimator;
+    private SpriteRenderer myRenderer;
 
     private void OnEnable()
     {
@@ -23,6 +25,9 @@ public class PlayerBehavior : MonoBehaviour
         Inputs.Player.Move.performed += OnMovePerformed;
         Inputs.Player.Move.canceled += OnMoveCanceled;
         Inputs.Player.Jump.performed += OnJumpPerformed;
+        myRigidBody = GetComponent<Rigidbody2D>();
+        myAnimator = GetComponent<Animator>();
+        myRenderer = GetComponent<SpriteRenderer>();
 
     }
 
@@ -53,6 +58,9 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
     // Start is called before the first frame update
     void Start()
     {
+
+    //GetComponent<Animator>().SetBool(*IsRunning*, true);
+
         myRigidBody = GetComponent<Rigidbody2D>();
     }
 
@@ -63,6 +71,8 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         //direction.y = 0;
         //myRigidBody.MovePosition(direction);
         //myRigidBody.velocity = direction;
+        //why are there so many commented lines
+        //no i'm not afraid of commitment you're afraid of commitment
         var PlayerDirection = new Vector2
         {
             x = direction.x,
@@ -74,6 +84,19 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         { 
             myRigidBody.AddForce(direction * speed);
         }
+        var isRunning = direction.x != 0;
+        myAnimator.SetBool("isRunning", isRunning);
+        if(direction.x < 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = true;
+        }
+        else if (direction.x > 0)
+        {
+            myRenderer.flipX = false;
+        }
+
+        var isJumping = direction.y > 0;
+        myAnimator.SetBool("isJumping", isJumping);
             
     }
 
@@ -83,6 +106,8 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         var touchFromAbove = other.contacts[0].normal == Vector2.up;
         if (touchGround && touchFromAbove)
         //if (other.gameObject.CompareTag("Ground") == true)
+        //do i know what i'm doing?
+        //does anyone?
         {
             isOnGround = true;
         }
