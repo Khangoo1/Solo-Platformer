@@ -13,7 +13,7 @@ public class PlayerBehavior : MonoBehaviour
     private Vector2 direction;
     private Rigidbody2D myRigidBody;
 
-    private bool isOnGround = false;
+    private bool isOnGround = true;
 
     private void OnEnable()
     {
