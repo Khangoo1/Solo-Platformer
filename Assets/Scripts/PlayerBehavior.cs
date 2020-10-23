@@ -72,7 +72,7 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         //myRigidBody.MovePosition(direction);
         //myRigidBody.velocity = direction;
         //why are there so many commented lines
-        //no i'm not afraid of commitment 
+        //wdym i'm afraid of commitment 
         //YOU'RE afraid of commitment
         var PlayerDirection = new Vector2
         {
