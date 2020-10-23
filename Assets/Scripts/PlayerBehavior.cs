@@ -72,7 +72,8 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         //myRigidBody.MovePosition(direction);
         //myRigidBody.velocity = direction;
         //why are there so many commented lines
-        //no i'm not afraid of commitment you're afraid of commitment
+        //no i'm not afraid of commitment 
+        //YOU'RE afraid of commitment
         var PlayerDirection = new Vector2
         {
             x = direction.x,
@@ -111,10 +112,13 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
             isOnGround = true;
         }
 
+        //The only thing getting destroyed here is my mental health
+
         if(other.gameObject.tag == "DeathPit")
        {
         Destroy(other.gameObject);
        }
+       //just yeet me into the gameObject.DeathPit already
     }
 
 
