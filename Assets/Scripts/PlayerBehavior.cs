@@ -95,8 +95,7 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
             myRenderer.flipX = false;
         }
 
-        var isJumping = direction.y > 0;
-        myAnimator.SetBool("isJumping", isJumping);
+        
             
     }
 
@@ -111,5 +110,13 @@ private void OnMoveCanceled(InputAction.CallbackContext obj)
         {
             isOnGround = true;
         }
+
+        if(other.gameObject.tag == "DeathPit")
+       {
+        Destroy(other.gameObject);
+       }
     }
+
+
+   
 }
